@@ -8,7 +8,7 @@
 ## Online code editor for HTML, CSS and Javascript to discover frontend code
 
 <div align="center">
-  <img alt="Demo" src="./src/Assets/web.gif"/>
+<!--   <img alt="Demo" src="./src/Assets/web.gif"/> -->
 </div>
 
 ### Features:
@@ -22,7 +22,7 @@
 ## Online Markdown editor for generating Readme Files
 
 <div align="center">
-  <img alt="Demo" src="./src/Assets/markdown.gif"/>
+<!--   <img alt="Demo" src="./src/Assets/markdown.gif"/> -->
 </div>
 
 ## Features
@@ -38,4 +38,4 @@
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<!-- <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a> -->
