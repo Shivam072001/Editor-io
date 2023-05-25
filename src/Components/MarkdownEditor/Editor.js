@@ -10,7 +10,12 @@ import fileDownload from "js-file-download";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function Editor() {
-  const InitialVal = `## Welcome to Editor
+  const InitialVal = `# Welcome to Editor
+  ## Welcome to Editor
+  ### Welcome to Editor
+  #### Welcome to Editor
+  ##### Welcome to Editor
+  ###### Welcome to Editor
 
   **Features**
   
